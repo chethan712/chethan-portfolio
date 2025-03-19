@@ -9,7 +9,6 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - HTML
 - CSS
 - JavaScript
-- React (if applicable)
 - Git & GitHub for version control
 
 ## Features
